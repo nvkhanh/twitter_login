@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.mydramalist.app'
+    namespace 'com.twitterlogin or com.ternl.twitterlogin.'
     compileSdkVersion 31
 
     compileOptions {
