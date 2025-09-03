@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.twitterlogin or com.ternl.twitterlogin.'
+    namespace 'com.ternl.twitter_login'
     compileSdkVersion 31
 
     compileOptions {
